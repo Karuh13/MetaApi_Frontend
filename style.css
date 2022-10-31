@@ -154,12 +154,6 @@ nav > div:last-of-type{
     font-weight: bold;
 }
 
-.logo-explanation{
-    padding: 40px;
-    font-family:Arial, Helvetica, sans-serif ;
-
-}
-
 .main > .container > img{
     width: 150px;
     padding-bottom: 50px;
@@ -180,18 +174,31 @@ nav > div:last-of-type{
 }
 
 .indexMain > p {
-    font-size: 20px;
+    font-size: 40px;
     max-width: 700px;
-    line-height: 25px;
+    line-height: 45px;
+    color: rgb(29,129,245);
+
 }
 
 .indexMain > p:nth-child(4) {
-    padding-top: 90px;
-    text-decoration: underline;
+    padding-top: 10px;
+    color: black;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.indexMain > .insideJokes {
+    font-family:Arial, Helvetica, sans-serif; 
+    font-size: small;
+    color: black;
+    margin-top: -45px;
 }
 
 .indexMain > ul {
     display: flex;
     gap: 40px;
-    font-size: 20px;
+    font-size: 15px;
+    font-weight: bold;
+
 }
