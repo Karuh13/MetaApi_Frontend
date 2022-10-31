@@ -154,6 +154,12 @@ nav > div:last-of-type{
     font-weight: bold;
 }
 
+.logo-explanation{
+    padding: 40px;
+    font-family:Arial, Helvetica, sans-serif ;
+
+}
+
 .main > .container > img{
     width: 150px;
     padding-bottom: 50px;
